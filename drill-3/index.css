@@ -1,0 +1,46 @@
+.header {
+    height: 75px;
+    background-color: #D8D8D8;
+    margin: 0%; 
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    
+}
+
+.square {
+    height: 25px;
+    width: 25px;
+    background-color: #5B8EDB;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.blue {
+    background-color: #5B8EDB;
+    height: 125px;
+}
+
+.aqua {
+    background-color: #7BDFC2;
+    height: 125px;
+}
+
+.green {
+    background-color: #C2E791;
+    height: 125px;
+}
+
+.yellow {
+    background-color: #F5E752;
+    height: 125px;
+}
+
+.paragraphs {
+    padding: 20px;
+}
+
+body {
+    margin: 0;
+}
